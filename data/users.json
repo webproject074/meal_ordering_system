@@ -1,0 +1,21 @@
+[
+    {
+        "id": "admin001",
+        "username": "admin",
+        "password": "password",
+        "role": "admin"
+    },
+    {
+        "id": "canteen001",
+        "username": "canteen",
+        "password": "password",
+        "role": "canteen"
+    },
+    {
+        "id": "dept683613808e54a6e3b4f4b8a312416",
+        "username": "hr",
+        "password": "$2y$10$VipAr04zxHL1NHQe3V0OzuMRCc1YKVnC7WO.IGV1KPg6PwK27kWi.",
+        "role": "department",
+        "department_name": "HR management"
+    }
+]

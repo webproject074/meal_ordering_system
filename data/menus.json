@@ -1,0 +1,38 @@
+[
+    {
+        "id": "menu6866be6cec223b3c842f86a5ba746",
+        "name": "Uludu Wada",
+        "description": "Uludu wada samaga lunu miris",
+        "price": 50,
+        "category": "Morning Snack",
+        "availability": true,
+        "image": "menuimg_6866be6cebf94.jpg"
+    },
+    {
+        "id": "menu6866e45a228404d13122c7102e61a",
+        "name": "Sandwich",
+        "description": "Egg Sandwich with three Layers ",
+        "price": 150,
+        "category": "Morning Snack",
+        "availability": true,
+        "image": "menuimg_6866e45a22074.jpeg"
+    },
+    {
+        "id": "menu6866e4832ccc7073051e13999f19b",
+        "name": "Samosa",
+        "description": "vegetable Samosa",
+        "price": 50,
+        "category": "Morning Snack",
+        "availability": true,
+        "image": "menuimg_6866e4832c670.jpeg"
+    },
+    {
+        "id": "menu6866e4ac78114f638e0af18cd4f83",
+        "name": "Noodless",
+        "description": "fried chicken noodles",
+        "price": 500,
+        "category": "Dinner",
+        "availability": true,
+        "image": "menuimg_6866e4ac77c4b.jpeg"
+    }
+]
